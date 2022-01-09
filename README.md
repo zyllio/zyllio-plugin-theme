@@ -6,6 +6,11 @@ This Zyllio plugin implements a Theme
 
 <img src="./snapshots/demo.gif">
 
+# Experiment
+
+Install this pre-built file to experiment the plugin:
+> `https://zyllio.github.io/zyllio-plugin-theme/src/theme.js`
+
 # Development environment
 
 Node.js 14+ is required
