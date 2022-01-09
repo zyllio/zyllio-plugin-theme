@@ -9,7 +9,9 @@ This Zyllio plugin implements a Theme
 # Experiment
 
 Install this pre-built file to experiment the plugin:
-> `https://zyllio.github.io/zyllio-plugin-theme/src/theme.js`
+```
+https://zyllio.github.io/zyllio-plugin-theme/src/theme.js
+```
 
 # Development environment
 
