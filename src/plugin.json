@@ -1,6 +1,6 @@
 {
   "name": "Plugino Theme Plugin",
-  "company": "This plugins provides a nice Plugino theme",
-  "vendor": "Zyllio team",
+  "description": "This plugins provides a nice Plugino theme",
+  "company": "Zyllio team",
   "icon": "https://studio.zyllio.com/assets/icon.png"
 }
