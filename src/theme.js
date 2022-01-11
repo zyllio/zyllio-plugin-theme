@@ -3,7 +3,7 @@
 console.log('Plugin Theme started')
 
 const theme = {
-  name: 'Custom Theme',
+  name: 'Plugino Theme',
   theme: {
     primaryColor: '#4f7d96',
     primaryTextColor: '#ffffff',
