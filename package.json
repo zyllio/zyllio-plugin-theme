@@ -11,7 +11,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "@zyllio/zy-sdk": "latest",
+    "@zyllio/zy-sdk": "0.0.11",
     "localtunnel": "^2.0.2",
     "serve": "^13.0.2"
   }
