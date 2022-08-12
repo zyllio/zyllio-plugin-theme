@@ -9,6 +9,8 @@ const theme = {
     primaryTextColor: '#ffffff',
     secondaryColor: '#fe844b',
     secondaryTextColor: '#ffffff',
+    tertiaryColor: '#0000000a',
+    tertiaryTextColor: '#000000',
     backgroundColor: '#f0f6f9',
     textColor: '#474f5b',
     rtl: false
