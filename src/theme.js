@@ -1,8 +1,8 @@
 /// <reference types="@zyllio/zy-sdk" />
 
-console.log('Plugin Theme started')
-
 (function () {
+  
+  console.log('Plugin Theme started')
 
   const theme = {
     name: 'Custom Theme',
