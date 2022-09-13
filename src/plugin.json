@@ -1,0 +1,8 @@
+{
+    "name": "Plugino Theme Plugin",
+    "description": "This plugins provides a nice Plugino theme",
+    "company": "This plugins provides a nice Plugino theme",
+    "vendor": "Zyllio team",
+    "icon": "https://studio.zyllio.com/assets/icon.png",
+    "version": "1.0.0"
+  }
