@@ -1,4 +1,3 @@
-/// <reference types="@zyllio/zy-sdk" />
 
 (function () {
   
