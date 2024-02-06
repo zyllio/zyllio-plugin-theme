@@ -8,7 +8,7 @@ This Zyllio plugin implements a Theme
 
 # Development environment
 
-Node.js 14+ is required
+Node.js 18+ is required
 
 # Build
 
